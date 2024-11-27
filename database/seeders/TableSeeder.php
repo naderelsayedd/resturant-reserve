@@ -31,21 +31,6 @@ class TableSeeder extends Seeder
             [
                 'capacity' => 10,
             ],
-            [
-                'capacity' => 4,
-            ],
-            [
-                'capacity' => 6,
-            ],
-            [
-                'capacity' => 2,
-            ],
-            [
-                'capacity' => 10,
-            ],
-            [
-                'capacity' => 4,
-            ],
         ]);
     }
 }
